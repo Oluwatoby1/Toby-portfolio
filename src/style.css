@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.thumbnail-1{
+
+    background-image:url(/images/thumbnails/image.png)
+
+}
+.thumbnail-2{
+
+    background-image: url(/images/thumbnails/image2.png)
+
+}
+.thumbnail-3{
+
+    background-image: url(/images/thumbnails/image4.png)
+
+}
+.thumbnail-4{
+
+    background-image: url(/images/thumbnails/image\ 53.png);
+
+}
+
+.negative-spacing {
+    letter-spacing: -0.03rem;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+  }
