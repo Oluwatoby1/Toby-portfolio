@@ -1239,6 +1239,32 @@ video {
   /* Firefox */
 }
 
+@media screen and (min-width:1770px) {
+}
+
+@media screen and (min-width:1800px) {
+}
+
+@media screen and (min-width:2260px) {
+}
+
+@media screen and (min-width:2560px) {
+  #case, #payam-case{
+    padding-left: 32rem;
+    padding-right: 32rem;
+  }
+
+  .upper-section, .bola .baru-space  {
+    padding-left: 14rem;
+    padding-right: 14rem;
+  }
+
+  .force-padding{
+    padding-left: 32rem;
+    padding-right: 32rem;
+  }
+}
+
 .hover\:scale-105:hover{
   --tw-scale-x: 1.05;
   --tw-scale-y: 1.05;
@@ -1665,17 +1691,5 @@ video {
 
   .lg\:leading-\[3rem\]{
     line-height: 3rem;
-  }
-}
-
-@media (min-width: 1536px){
-  .\32xl\:px-\[12rem\]{
-    padding-left: 12rem;
-    padding-right: 12rem;
-  }
-
-  .\32xl\:px-\[24rem\]{
-    padding-left: 24rem;
-    padding-right: 24rem;
   }
 }

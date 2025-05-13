@@ -36,3 +36,41 @@
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;     /* Firefox */
   }
+
+
+
+@media screen and (min-width:1770px) {
+
+   
+}
+@media screen and (min-width:1800px) {
+
+}
+@media screen and (min-width:2260px) {
+  
+}
+
+@media screen and (min-width:2560px) {
+
+  #case, #payam-case{
+    padding-left: 32rem;
+    padding-right: 32rem;
+  }
+
+
+
+.upper-section, .bola .baru-space  {
+    padding-left: 14rem;
+    padding-right: 14rem;
+  }
+  
+
+  .force-padding{
+    padding-left: 32rem;
+    padding-right: 32rem;
+  }
+  
+
+ 
+ 
+}
